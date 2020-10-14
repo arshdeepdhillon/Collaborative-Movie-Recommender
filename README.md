@@ -3,7 +3,7 @@ Collaborative Filtering was used to make movie recommendation with the help of
 [Surprise](http://surprise.readthedocs.io/en/stable/FAQ.html) Library. Specificly SVD was used to give unique recommendation to each user based on their rating of other movies.                                   
 
 #### Dataset
-The Movie Dataset used for this script can be found [here](https://grouplens.org/datasets/movielens/latest/)
+The Movie Dataset used for this script can be found [here](https://grouplens.org/datasets/movielens/latest/).
 
 ## To Run the Script
 
